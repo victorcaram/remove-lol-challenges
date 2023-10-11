@@ -34,9 +34,7 @@
 
 ## About The Project
 
-<div align="center">
-  <img src="images/bot-play.png" alt="Project screenshot" >
-</div>
+As there is no currently way to remove challenges from LoL's Profile, this script is a way around it.
 
 ## License
 
