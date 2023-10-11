@@ -1,9 +1,5 @@
 <br />
 <p align="center">
-  <a href="https://github.com/victorcaram/remove-lol-challenges">
-    <img src="https://images-na.ssl-images-amazon.com/images/I/61LNAo2K9RL.png" alt="Logo" width="256" height="256">
-  </a>
-
   <h3 align="center">Remove League of Legends Script</h3>
 
   <p align="center">
